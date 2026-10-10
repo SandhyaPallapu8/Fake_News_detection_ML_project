@@ -39,7 +39,7 @@ Open Google Colab and upload fake_news_detection.py.
 
 Upload the dataset files train.csv and test.csv to the Colab session's Files section.
 
-Ensure both CSV files are available at /content/train.csv and /content/test.csv.
+Ensure both CSV files are available at /content/train.txt and /content/test.csv.
 
 Open a code cell and run:
 
